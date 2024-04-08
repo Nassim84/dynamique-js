@@ -17,7 +17,7 @@ npm install
 
 ## Utilisation
 
-Explique comment démarrer et utiliser ton projet. Par exemple :
+Démarrer et utiliser ton projet. Par exemple :
 
 - Pour démarrer le frontend :
 
